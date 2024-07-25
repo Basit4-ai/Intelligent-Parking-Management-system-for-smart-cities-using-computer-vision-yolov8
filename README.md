@@ -23,3 +23,12 @@ we have target  the center of the car as our decision making feature , if the ca
 decrement the availabe slot .
 # Running the "Final.ipynb" file:
 after running the the above file this will detect real time the available slot ,occupied slot ,right_parked and Wrong_parket
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Contact Information
+For any questions or suggestions, feel free to reach out:
+
+Email: your-email@example.com
+LinkedIn: Your LinkedIn
+
